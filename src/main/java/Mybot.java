@@ -17,6 +17,7 @@ public class Mybot extends TelegramLongPollingBot {
     }
 
     public Mybot(List<Base> baseInterfaces, List<Base> base) {
+
         this.base = base;
     }
 
